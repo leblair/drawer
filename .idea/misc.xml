@@ -5,6 +5,8 @@
       <map>
         <entry key="app/src/main/res/drawable/header2.xml" value="0.14" />
         <entry key="app/src/main/res/drawable/ic_baseline_directions_bike_24.xml" value="0.36564102564102563" />
+        <entry key="app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.35185185185185186" />
+        <entry key="app/src/main/res/drawable/ic_menu.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.29438405797101447" />
         <entry key="app/src/main/res/layout/header.xml" value="0.29438405797101447" />
         <entry key="app/src/main/res/layout/toolbar.xml" value="0.29438405797101447" />
